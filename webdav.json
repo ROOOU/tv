@@ -16,7 +16,7 @@
     {
       "name": "rou",
       "server": "http://127.0.0.1/dav",
-      "user": "admin",
+      "user": "alist",
       "pass": "940122"
     }
   ]
