@@ -1,3 +1,5 @@
+sureena.ns.cloudflare.com
+andy.ns.cloudflare.com
 104.17.101.128
 104.17.60.120
 104.17.234.218
